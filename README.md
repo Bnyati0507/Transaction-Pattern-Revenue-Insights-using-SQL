@@ -52,7 +52,7 @@ An **ERD diagram** is included to represent the schema and table relationships.
 
  
 
-  <pre><code>Transaction Pattern & Revenue Insights using SQL	/
+  <pre><code>Transaction Pattern & Revenue Insights using SQL/
 │
 ├── Dataset/                 — Raw dataset
 ├── Schema/                  — Database schema &amp; DDL scripts
